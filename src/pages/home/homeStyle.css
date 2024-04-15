@@ -1,0 +1,23 @@
+.card{
+    width: 20vw;
+    height: 20vw;
+    /* box-shadow: 50px; */
+    /* background-color: red; */
+    border-radius: 16px;
+    border-width: 10px;
+    border-color: #ccc;
+    box-shadow: 5px 5px 5px #333;
+    margin: 20px;
+}
+
+.container{
+    display: inline-block;
+    background-color: cadetblue;
+    border-radius: 16px;
+    width: 60vw;
+    color:azure;
+    height: 30vh;
+    padding: 10px;
+    /* border-color: red;
+    border-width: 5px; */
+}
